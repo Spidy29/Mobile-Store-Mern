@@ -1,5 +1,3 @@
-# Mobile-Store-Mern
-mobile store fully fledged mern project repo
 # MobileMania
 
 > Build Ecommerce App Like Amazon By MERN Stack
